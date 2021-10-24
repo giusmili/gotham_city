@@ -20,4 +20,23 @@ Application web sur Gotham
 * index.html
 * css/style.css
 * asset/
-* [E-mail](mailto:giusmili67@gmail.com)
+* [Contact](mailto:giusmili67@gmail.com)
+
+## schéma structurel d'une page
+```html
+    html > head > meta + meta + title + link
+
+    body > header{main title}
+
+    main > nav > h2{sub-title}+
+    ol > li * 3 > a{link}
+
+    section > h2{title} + p + div > img
+
+    section > h2{title} + p
+    
+    section > h2{title} + p + div > img
+
+    footer > a{index}
+
+```
