@@ -26,7 +26,7 @@ Application web sur Gotham
 ```html
     html > head > meta + meta + title + link
 
-    body > header{main title}
+    body > header + h1{main title}
 
     main > nav > h2{sub-title}+
     ol > li * 3 > a{link}
